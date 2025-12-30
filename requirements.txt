@@ -1,0 +1,8 @@
+# OpenAI Agents SDK - Core dependency
+openai-agents-python>=0.1.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# Additional dependencies for async support (usually included with Python 3.8+)
+# asyncio is part of the standard library, so no explicit requirement needed
